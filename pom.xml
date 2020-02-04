@@ -1618,7 +1618,7 @@
                 <product.version>${project.version}</product.version>
                 <product.default-profile>community</product.default-profile>
                 <jackson.version>2.9.10</jackson.version>
-                <jackson.databind.version>2.9.10.1</jackson.databind.version>
+                <jackson.databind.version>2.9.10</jackson.databind.version>
                 <resteasy.version>3.9.1.Final</resteasy.version>
                 <resteasy.undertow.version>${resteasy.version}</resteasy.undertow.version>
             </properties>
