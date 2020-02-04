@@ -41,7 +41,7 @@
 
         <product.build-time>${timestamp}</product.build-time>
 
-        <wildfly.version>18.0.1.Final</wildfly.version>
+        <wildfly.version>19.0.0.Beta1</wildfly.version>
         <wildfly.build-tools.version>1.2.12.Final</wildfly.build-tools.version>
         <eap.version>7.3.0.GA-redhat-00003</eap.version>
         <wildfly.core.version>10.0.3.Final</wildfly.core.version>
@@ -57,17 +57,17 @@
         <apache.mime4j.version>0.6</apache.mime4j.version>
         <jboss.dmr.version>1.5.0.Final</jboss.dmr.version>
         <bouncycastle.version>1.60</bouncycastle.version>
-        <cxf.version>3.3.3</cxf.version>
-        <cxf.jetty.version>3.3.3</cxf.jetty.version>
-        <cxf.jaxrs.version>3.3.3</cxf.jaxrs.version>
-        <cxf.undertow.version>3.3.3</cxf.undertow.version>
+        <cxf.version>3.3.4</cxf.version>
+        <cxf.jetty.version>3.3.4</cxf.jetty.version>
+        <cxf.jaxrs.version>3.3.4</cxf.jaxrs.version>
+        <cxf.undertow.version>3.3.4</cxf.undertow.version>
         <dom4j.version>2.1.1</dom4j.version>
         <github.relaxng.version>2.3.1</github.relaxng.version>
         <h2.version>1.4.193</h2.version>
         <jakarta.persistence.version>2.2.3</jakarta.persistence.version>
         <hibernate.core.version>5.3.14.Final</hibernate.core.version>
         <hibernate.c3p0.version>5.3.14.Final</hibernate.c3p0.version>
-        <infinispan.version>9.4.16.Final</infinispan.version>
+        <infinispan.version>9.4.17.Final</infinispan.version>
         <!-- Will be used in the product. Upstream versions are overridden in the community profile -->
         <jackson.version>2.10.0</jackson.version>
         <jackson.databind.version>${jackson.version}</jackson.databind.version>
